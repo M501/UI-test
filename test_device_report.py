@@ -1,7 +1,7 @@
 import pytest
 import allure
 import time
-import os 
+import os
 import urllib.parse
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
