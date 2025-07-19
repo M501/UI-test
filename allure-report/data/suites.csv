@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","9996","test_export_devices_report","","Sun Jul 20 00:07:23 MSK 2025","passed","Sun Jul 20 00:07:33 MSK 2025","","test_device_report","",""
