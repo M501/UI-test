@@ -1,6 +1,7 @@
 # Antisleep UI Automation Tests
 
 This repository contains UI automation tests for the Antisleep web application, specifically focusing on the "Devices Report Export Flow" functionality. These tests are built using Python, Selenium, Pytest, and Allure for comprehensive reporting.
+# URL for a required video demonstration: https://disk.yandex.ru/i/j74IaNIyoAju0g
 
 ## 🚀 Technologies Used
 
